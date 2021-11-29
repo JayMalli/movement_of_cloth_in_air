@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://firebasestorage.googleapis.com/v0/b/creative-coding-92146.appspot.com/o/img%2Fmovement_of_cloth.png?alt=media&token=65e9516b-694e-4f85-8c81-274bb443b9db" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Movement of cloth in air</h3>
